@@ -1,8 +1,7 @@
 payload:
-# 油猴脚本
     - +.sleazyfork.org
     - +.greasyfork.org
-# wiki
+
     - +.wikipedia.org
     - +.
     - +.
