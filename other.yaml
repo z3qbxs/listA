@@ -1,3 +1,9 @@
 payload:
 # PT
     - +.fsm.name
+
+# 其他
+    - +.sleazyfork.org
+    - +.
+    - +.wikipedia.org
+    - +.
