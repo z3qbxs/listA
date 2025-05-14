@@ -1,11 +1,19 @@
 payload:
+
+# 油猴脚本
     - +.sleazyfork.org
     - +.greasyfork.org
-
+# wiki百科
     - +.wikipedia.org
+    - +.wikimedia.org
     - +.
     - +.
     - +.
     - +.
+# PT
+    - +.fsm.name
     - +.
-
+# 机场
+    - +.paopao.dog
+    - +.翻墙机场.com
+    
