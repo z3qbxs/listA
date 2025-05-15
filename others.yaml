@@ -1,5 +1,9 @@
 payload:
 
+# twitter/X
+    - +.x.com
+    - +.twitter.com
+
 # 油猴脚本
     - +.sleazyfork.org
     - +.greasyfork.org
@@ -22,8 +26,8 @@ payload:
     
     
     
-    - +.
-    - +.
+    
+    
     - +.
     - +.
     - +.
