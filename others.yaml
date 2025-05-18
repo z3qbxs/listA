@@ -10,7 +10,8 @@ payload:
 # wiki百科
     - +.wikipedia.org
     - +.wikimedia.org
-
+# duckduckgo
+    - +.duckduckgo.com
 # PT
     - +.fsm.name
     - +.
@@ -28,7 +29,7 @@ payload:
     
     
     
-    - +.
+    
     - +.
     - +.
     - +.
