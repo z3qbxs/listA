@@ -1,4 +1,5 @@
 payload:
+# dmm
     - api-p.videomarket.jp
     - +.dmm.com
     - +.dmm-extension.com
@@ -16,3 +17,16 @@ payload:
     - +.microad.co.jp
     - +.microad.jp
     - +.socdm.com
+# 1pondo
+
+#    - +.sample-1pondo.eroxjapanz.com
+    - +.1pondo.tv
+
+
+
+    
+    - +.
+    - +.
+    - +.
+    - +.
+    - +.
